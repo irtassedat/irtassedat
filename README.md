@@ -1,4 +1,4 @@
-[![MasterHead](https://ibb.co/fSXbghc)
+[![MasterHead](https://pasteboard.co/D2ufg7ImymTV.jpg)
 <h1 align="center">Hi 👋, I'm Sedat İrtaş</h1>
 <h3 align="center">A passionate fullstack developer from Turkey</h3>
 
@@ -12,9 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sedatirtas.vercel.app/](https://sedatirtas.vercel.app/)
 
-- 📫 How to reach me **sedatirtas.1@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/sedat-irta%C5%9F-04a441137/](https://www.linkedin.com/in/sedat-irta%C5%9F-04a441137/)
+- 📫 How to reach me **https://www.linkedin.com/in/sedat-irta%C5%9F-04a441137/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irtassedat&show_icons=true&locale=en&layout=compact" alt="irtassedat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irtassedat&show_icons=true&locale=en" alt="irtassedat" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irtassedat&" alt="irtassedat" /></p>
