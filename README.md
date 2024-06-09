@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sedat İrtaş</h1>
+<h1 align="center">Hi 👋, I'm Sedat</h1>
 <h3 align="center">A passionate fullstack developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irtassedat&label=Profile%20views&color=0e75b6&style=flat" alt="irtassedat" /> </p>
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sedatirtas.vercel.app/](https://sedatirtas.vercel.app/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/sedat-irta%C5%9F-04a441137/**
+- 📫 How to reach me **sedatirtas.1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
