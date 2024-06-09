@@ -1,4 +1,3 @@
-[![MasterHead](https://pasteboard.co/D2ufg7ImymTV.jpg)
 <h1 align="center">Hi 👋, I'm Sedat İrtaş</h1>
 <h3 align="center">A passionate fullstack developer from Turkey</h3>
 
