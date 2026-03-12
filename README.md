@@ -19,7 +19,7 @@
 Industrial engineer turned software developer based in Turkey. I build production-grade full-stack applications, real-time data systems, and AI-powered automation platforms.
 
 ```
-12+ production projects  |  30+ API integrations  |  60+ AI agent orchestrations
+13+ production projects  |  30+ API integrations  |  60+ AI agent orchestrations
 ```
 
 ---
