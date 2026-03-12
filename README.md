@@ -1,24 +1,118 @@
-<h1 align="center">Hi 👋, I'm Sedat</h1>
-<h3 align="center">A passionate fullstack developer from Turkey</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irtassedat&label=Profile%20views&color=0e75b6&style=flat" alt="irtassedat" /> </p>
+# Hey, I'm Sedat
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irtassedat" alt="irtassedat" /></a> </p>
+**Full-Stack Developer & AI Systems Engineer**
 
-- 🔭 I’m currently working on [E-commerce shop](https://ecommerce-flax-seven-47.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sedatirtas.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://sedatirtas.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sedat-irta%C5%9F-04a441137/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sedatirtas.1@gmail.com)
 
-- 🌱 I’m currently learning **mostly(: React | Java | SpringBoot | BlockChain**
+<img src="https://komarev.com/ghpvc/?username=irtassedat&label=Profile%20views&color=0e75b6&style=flat" alt="irtassedat" />
 
-- 👨‍💻 All of my projects are available at [https://sedatirtas.vercel.app/](https://sedatirtas.vercel.app/)
+</div>
 
-- 📫 How to reach me **sedatirtas.1@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sedat-irta%C5%9F-04a441137/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sedat irtaş" height="30" width="40" /></a>
-</p>
+### About
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+Industrial engineer turned software developer based in Turkey. I build production-grade full-stack applications, real-time data systems, and AI-powered automation platforms.
 
+```
+12+ production projects  |  30+ API integrations  |  60+ AI agent orchestrations
+```
 
+---
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**[QR Menu System](https://qr.sebastianlogic.com)**
+Multi-brand restaurant management with digital QR menus, loyalty programs, and real-time ordering.
+
+`React` `Express.js` `PostgreSQL` `JWT` `Tailwind CSS`
+
+[Frontend](https://github.com/irtassedat/qrmenu-frontend) | [Backend](https://github.com/irtassedat/qrmenu-backend) | [Live Menu](https://qr.sebastianlogic.com/menu/19)
+
+</td>
+<td width="50%">
+
+**[Turkerler Energy Portfolio](https://turkerler-portfolio.vercel.app)**
+Interactive showcase for Turkerler Holding's renewable energy operations and AI-driven management vision.
+
+`Next.js 16` `TypeScript` `Framer Motion` `Tailwind CSS`
+
+[Repo](https://github.com/irtassedat/turkerler-portfolio) | [Live](https://turkerler-portfolio.vercel.app)
+
+</td>
+</tr>
+</table>
+
+---
+
+### Tech Stack
+
+<table>
+<tr>
+<td><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Data</b></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>DevOps & Cloud</b></td>
+<td>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</td>
+</tr>
+<tr>
+<td><b>AI & Automation</b></td>
+<td>
+<img src="https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=irtassedat&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=irtassedat&theme=github-dark-blue&hide_border=true" height="160" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtassedat&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" />
+
+</div>
