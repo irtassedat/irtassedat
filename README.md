@@ -67,11 +67,11 @@ adaptive scoring, real-time event bus, multi-brand isolation.
 <tr>
 <td width="50%">
 
-**Smart Logistics & Payment Platform**
+**Smart Logistics Platform**
 34,600 lines · pnpm monorepo · 6 autonomous agents
 
-HD Wallet (BIP44) multi-chain payments, Signal integration,
-dispute resolution, audit logging, geographic queries.
+Order lifecycle management, automated payment verification,
+real-time notifications (Telegram + Signal), geographic routing, audit trail.
 
 `Fastify` `React` `Grammy` `Prisma` `PostgreSQL` `Redis`
 
