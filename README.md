@@ -2,7 +2,7 @@
 
 # Sedat Irtas
 
-**Full-Stack Developer & AI Systems Engineer**
+**Software Engineer | AI-Augmented Development **
 
 Building production-grade autonomous systems, real-time platforms, and AI-powered infrastructure.
 
