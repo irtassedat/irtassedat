@@ -8,16 +8,8 @@ Building production-grade autonomous systems, real-time platforms, and AI-powere
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://sedat-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sedat-irta%C5%9F-04a441137/)
-[![AgentForge](https://img.shields.io/badge/AgentForge-Live_Demo-a855f7?style=for-the-badge)](https://dashboard-rust-chi-93.vercel.app)
 
 </div>
-
----
-
-I'm an industrial engineer who transitioned to software — bringing systems thinking to code.
-My focus: **autonomous agents**, **real-time monitoring**, and **scalable backend architecture**.
-
----
 
 ### Featured: AgentForge
 
