@@ -14,13 +14,6 @@ Building production-grade autonomous systems, real-time platforms, and AI-powere
 
 ---
 
-### What I Build
-
-```
-130K+ lines of production code  ·  400+ API endpoints  ·  100+ database models
-6 autonomous agent systems  ·  11+ Docker containers  ·  CI/CD with Claude Code
-```
-
 I'm an industrial engineer who transitioned to software — bringing systems thinking to code.
 My focus: **autonomous agents**, **real-time monitoring**, and **scalable backend architecture**.
 
